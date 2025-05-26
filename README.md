@@ -1,1 +1,2 @@
-# Teste6
+# Stats Solver
+Web App para análise estatística.
